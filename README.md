@@ -1,0 +1,2 @@
+# Analise-de-Perfil-de-Clientes-para-Campanha-de-Investimentos
+Este projeto simula um cenário real enfrentado por times de marketing e analytics. Após uma campanha de 3 meses para oferecer um produto de investimento em todo o Brasil, a equipe de marketing disponibilizou a base de dados dos clientes para análise. A missão da área de dados é clara: identificar o perfil dos clientes mais propensos a comprar
